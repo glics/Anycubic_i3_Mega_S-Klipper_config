@@ -2,7 +2,10 @@ import RPi.GPIO as GPIO
 import subprocess
 import time
 
-#check pinout, these should be easy to short
+
+# pins:             ┌──── GPIO20
+#                   │┌─── GPIO21
+# ::::::::::::::::::::
 pin_out = 21
 pin_in = 20
 
