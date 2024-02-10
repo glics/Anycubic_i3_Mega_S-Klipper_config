@@ -17,6 +17,13 @@ This repository contains configuration files for [Klipper](https://www.klipper3d
 - Always back up your original configuration files before making changes.
 - Refer to the Klipper documentation and online resources for detailed information on configuration options and troubleshooting.
 
+## Future plans
+
+- Add a macro to backup the config files in one click (copy, commit and push the files)
+- Add start and end gcode scripts from the slicer to the repo
+- Add some of the slicer configurations (ie. speed, acceleration, extruder and filament settings, etc)
+- ~~Just get a Bambu Lab~~
+
 ## Additional information
 
 - Klipper documentation: [https://www.klipper3d.org/](https://www.klipper3d.org/)
