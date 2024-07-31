@@ -1,6 +1,9 @@
 # Config files and utilities for Klipper
 
-This repository contains configuration files for [Klipper](https://www.klipper3d.org/) running on a Raspberry Pi 3B for my Anycubic i3 Mega S. These files are provided as a personal backup and might require adjustments for your specific setup.
+> [!NOTE]  
+> Not updated anymore, I switched to a different 3D printer.
+
+This repository contains configuration files for [Klipper](https://www.klipper3d.org/) running on a Raspberry Pi 3B (also tested on a Pi Zero 2 W) for my Anycubic i3 Mega S. These files are provided as a personal backup and might require adjustments for your specific setup.
 
 ## Usage
 
@@ -22,7 +25,7 @@ This repository contains configuration files for [Klipper](https://www.klipper3d
 - Add a macro to backup the config files in one click (copy, commit and push the files)
 - Add start and end gcode scripts from the slicer to the repo
 - Add some of the slicer configurations (ie. speed, acceleration, extruder and filament settings, etc)
-- ~~Just get a Bambu Lab~~
+- ~~Just get a Bambu Lab~~ (done lol)
 
 ## Additional information
 
